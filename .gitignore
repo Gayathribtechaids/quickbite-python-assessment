@@ -1,0 +1,22 @@
+
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Original dataset and generated files
+data/
+cleaned_data/
+analysis/
+*.xlsx
+
+# Scripts not ready for upload
+scripts/cleaning.py
+scripts/analysis.py
+
+# IDE files
+.vscode/
+.idea/
